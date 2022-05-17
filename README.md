@@ -6,5 +6,6 @@ Quantum computers are machines that harness power from the laws of quantum mecha
 
 
 
-![c4dd5d671bb86d8551e9697c2d9ece06](https://user-images.githubusercontent.com/39042676/168801248-faae90c5-1857-4aba-9471-b372d9a86924.gif,height="60" width="60")
 
+
+<img src="https://user-images.githubusercontent.com/39042676/168801248-faae90c5-1857-4aba-9471-b372d9a86924.gif" width=10% height=10%>
