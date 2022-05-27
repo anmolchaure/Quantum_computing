@@ -7,6 +7,7 @@ Quantum computing is a kind of computing that employs the properties of Quantum 
 
 
 
+Bell State
 
 
 
